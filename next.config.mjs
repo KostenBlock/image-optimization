@@ -8,6 +8,7 @@ const nextConfig = {
     // loaderFile: "./loader.js",
     domains: ["storage.yandexcloud.net"],
     deviceSizes: [800, 1000, 1500, 2000, 2500, 4000],
+    unoptimized: true
   }
 };
 
